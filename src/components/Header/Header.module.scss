@@ -1,0 +1,16 @@
+header {
+    height: 5rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 2rem;
+    font-family: montserrat;
+    background-color: #f3d021;
+    font-weight: 700;
+}
+
+.headerText {
+    line-height: 5rem;
+    color: #000000;
+    font-size: 1.4rem;
+}

@@ -1,0 +1,19 @@
+.button {
+    min-width: 15rem;
+    box-shadow: 0 4px 4px #00000039;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    padding: .75rem 3rem;
+    font-weight: 700;
+    font-family: montserrat;
+    /* margin: 0 1.5rem; */
+    cursor: pointer;
+    background-color: #0066fd;
+    margin: 1rem;
+
+    &:hover {
+        background-color: #0053d0;
+    }
+}
